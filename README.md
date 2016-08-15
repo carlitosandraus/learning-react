@@ -13,3 +13,15 @@ npm init
 npm install ava -g 
 ava --init 
 ````
+
+- Adding webpack as dependency and creating config file
+
+````
+npm install webpack --save-dev
+````
+
+- Adding html-webpack-plugin as dependency
+
+````
+npm install html-webpack-plugin  --save-dev 
+````
