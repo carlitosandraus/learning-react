@@ -32,3 +32,9 @@ npm install html-webpack-plugin  --save-dev
 npm install -g webpack
 webpack 
 ````
+
+- Installing babel and its dependencies
+
+````
+npm install --save-dev babel-core babel-loader babel-preset-react
+````
