@@ -38,3 +38,8 @@ webpack
 ````
 npm install --save-dev babel-core babel-loader babel-preset-react
 ````
+
+- Installing react and react-dom. Creating simple component in app/index.js
+````
+npm install react react-dom --save
+````
