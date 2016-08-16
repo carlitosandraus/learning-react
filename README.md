@@ -43,3 +43,8 @@ npm install --save-dev babel-core babel-loader babel-preset-react
 ````
 npm install react react-dom --save
 ````
+
+- Installing webpack-dev-server as dependency
+````
+npm install webpack-dev-server --save
+````
