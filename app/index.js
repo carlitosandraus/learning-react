@@ -1,5 +1,8 @@
 var React = require('react')
 var ReactDOM = require('react-dom')
+
+var app = document.getElementById("app");
+
 var HelloWorld = React.createClass({
   render: function(){
     return (
@@ -9,4 +12,4 @@ var HelloWorld = React.createClass({
     )
   }
 });
-ReactDOM.render(<HelloWorld />, document.getElementById('app'));
+ReactDOM.render(<HelloWorld />, app );

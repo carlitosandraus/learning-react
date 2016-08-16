@@ -4,7 +4,8 @@
   "description": "React.JS fundamentals: Setting up your first React component with NPM, Babel, and Webpack",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "production": "webpack -p"
   },
   "repository": {
     "type": "git",

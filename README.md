@@ -48,3 +48,6 @@ npm install react react-dom --save
 ````
 npm install webpack-dev-server --save
 ````
+
+- Adding task to npm to run webpack on production mode. Adding link tag with bootstrap to app/index.html
+
